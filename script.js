@@ -3,8 +3,8 @@ var points = 0;
 var quiz = [
     {
         question: "Which of these is not an official Finnish police department?",
-        answers: ["A: Oulu Police Department", " B: Häme Police Department", " C: Western Uusimaa Police Department", " D: Southwestern Finland Police Department"],
-        correctAnswer: "C"
+        answers: ["A: Northeastern Finland Police Department", " B: Häme Police Department", " C: Western Uusimaa Police Department", " D: Southwestern Finland Police Department"],
+        correctAnswer: "A"
     },
     {
         question: "Which of these is not a famous Finnish chef?",
