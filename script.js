@@ -94,7 +94,7 @@ var quiz = [
     {
         question: "How fast does the fastest train in Finland travel at?",
         answers: [" A: 220 kph", " B: 180 kph", " C: 260kph", " D: 240kph"],
-        correctAnswer: "D"
+        correctAnswer: "A"
     },
     {
         question: "How deep is the deepest lake in Finland?",
